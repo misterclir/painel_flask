@@ -1,0 +1,20 @@
+0
+//Index	DropRate
+0	10000
+end
+
+1
+//Index	Section	SectionRate	MoneyAmount	OptionValue	DW	DK	FE	MG	DL	SU	RF	GL	RW	SL	GC	KM	LM	IK
+0	2	0	10	16	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+0	3	10000	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+end
+
+3
+//Index	Level	Grade	Option0	Option1	Option2	Option3	Option4	Option5	Option6	Duration	Comment
+13,14	0	0	-1	0	0	-1	-1	0	0	0	Loch's Feather
+13,52	0	0	-1	0	0	-1	-1	0	0	0	Condor Flame
+14,13	0	0	-1	0	0	-1	-1	0	0	0	Jewel of Bless
+14,14	0	0	-1	0	0	-1	-1	0	0	0	Jewel of Soul
+14,16	0	0	-1	0	0	-1	-1	0	0	0	Jewel of Life
+12,15	0	0	-1	0	0	-1	-1	0	0	0	Jewel of Chaos
+end

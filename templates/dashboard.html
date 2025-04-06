@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Painel{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2 class="mb-4">Bem-vindo, {{ session.user.name }}!</h2>
+    
+    <div class="row">
+        <!-- Atalho para o Conversor -->
+        {% include 'partials/converter_shortcut.html' %}
+        
+        <!-- Outros atalhos podem ser adicionados aqui -->
+    </div>
+</div>
+{% endblock %}
